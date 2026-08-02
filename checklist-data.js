@@ -68,7 +68,7 @@ const T = [
     ['toiletry', '棉花棒 / 化妝棉', 'checked', ''],
     ['toiletry', '生理食鹽水 / 保養液', 'checked', ''],
     ['toiletry', '隱形眼鏡 (日拋/雙週)', 'any', '隨身帶一副備用'],
-    ['toiletry', '衛生棉', 'any', ''],
+    ['toiletry', '月亮杯/月亮碟片', 'any', ''],
     ['makeup', '妝前乳 / 隔離霜', 'checked', ''],
     ['makeup', '粉底液 / 氣墊粉餅', 'checked', ''],
     ['makeup', '遮瑕膏', 'checked', ''],
